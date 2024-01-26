@@ -32,7 +32,6 @@ Endpoint: http://localhost:8000/api/posts/ (POST)
 ```json
 {
 	"title": "Заголовок поста",
-	"author": "<id_админа>", 
 	"content": "Это содержание нового поста"
 }
 ```
